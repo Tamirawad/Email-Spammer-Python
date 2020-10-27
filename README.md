@@ -13,3 +13,9 @@ smtplib.SMTPSenderRefused: (421, b'4.7.0 Try again later, closing connection. (M
   https://prnt.sc/v7rbm4 << What it will look like in the victim email
   
   Your antivirus will say its a virus and the same with windows defender and google so just ignore that
+
+
+Every thing was made by Me.
+
+My Youtube Channel:
+  https://www.youtube.com/channel/UCdv1wABAdHoZmkjAChBSr0g/
